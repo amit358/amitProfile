@@ -23,8 +23,8 @@
 }
 
 .box2{
-    height: 65vh;
-    width: 78vw;
+    height: 265px;
+    width: 280px;
     border: none !important;
     background: #08aeea50 url('/assets/img/amitbansode.JPG') no-repeat;
     background-size: cover;
